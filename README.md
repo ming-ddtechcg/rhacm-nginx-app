@@ -1,2 +1,3 @@
-# rhacm-nginx-app
-Redhat Advanced Management - nginx app example
+# rhacm-mcm-nginx-app
+RHACM managed applications - nginx app
+
