@@ -26,7 +26,7 @@ spec:
       name: nginx-app
     spec:
       containers:
-      - image: nginx:latest
+      - image: docker.io/twalter/openshift-nginx:latest
         imagePullPolicy: IfNotPresent
         livenessProbe:
           failureThreshold: 3
